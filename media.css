@@ -10,11 +10,15 @@
     }
     .nav-1, .nav-2 {
       width: 40vw;
+      height: 5vh;
     }
     .nav-2 {
       width: 60vw;
-        border-left: 1px solid white;
     }
+    .nav-2 a{
+        padding: 3px;
+    }
+    
     ul {
       flex-direction: row;
     }
