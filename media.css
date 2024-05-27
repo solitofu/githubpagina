@@ -13,6 +13,7 @@
     }
     .nav-2 {
       width: 60vw;
+        border-left: 1px solid white;
     }
     ul {
       flex-direction: row;
